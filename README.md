@@ -21,6 +21,15 @@ which it runs, in a simple desktop interface. It is shared so other
 developers can inspect the implementation, learn from the WinForms UI,
 and adapt the available code for their own projects.
 
+## Executable File
+
+-   Go To Action In Repository
+-   Select Build WinForms App Workflow
+-   Select Any Workflow That Has Green Tick
+-   Scroll Down To The Artifacts Section
+-   Download The Final-WinForm-App Folder
+-   You Can Find The .exe file in this folder , Run it and you will have App Preview.
+    
 ## Features in this public version
 
 -   Displays basic Windows device information in a desktop window.
