@@ -10,6 +10,10 @@ advertising workflows. Those proprietary business features have been
 removed from this release; the published code focuses on the
 device-specification display.
 
+
+<img width="444" height="297" alt="windows-specification-software" src="https://github.com/user-attachments/assets/2d26685f-517b-4c04-80a2-b1cba0ff0193" />
+
+
 ## Overview
 
 The application presents key information about the Windows computer on
